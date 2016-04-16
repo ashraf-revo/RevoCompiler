@@ -1,0 +1,24 @@
+{
+    Num num0;
+    Num num1;
+    If()
+    {
+        Num num2;
+        If()
+        {
+            Num num3;
+            If()
+            {
+                Num num4;
+            }
+            If()
+            {
+                Num num5;
+            }
+            Num num3;
+        }
+        Num num3;
+    }
+    Num num1;
+    Num num0;
+}
